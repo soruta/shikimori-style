@@ -1,0 +1,139 @@
+/* characters */
+.b-catalog_entry-tooltip .inner a.name {
+	background: transparent;
+}
+
+/* Asuka */
+.b-catalog_entry a[href *='characters/94-'] .image-cutter, .entry-tooltip_container>.image-link[href *='characters/94-'], .b-catalog_entry-tooltip>a[href *='characters/94-'] {
+	background-image: url(https://i.imgur.com/yWGcpFE.jpg);
+	border-radius: 4px;
+}
+.b-catalog_entry>a[href *='characters/94-'] img, .entry-tooltip_container>.image-link[href *='characters/94-'] img, .b-catalog_entry-tooltip a[href *='characters/94-'] img {
+    opacity: 0;
+}
+
+/* Ayanami */
+.b-catalog_entry a[href *='characters/86-'] .image-cutter, .entry-tooltip_container>.image-link[href *='characters/86-'], .b-catalog_entry-tooltip>a[href *='characters/86-'] {
+	background-image: url(https://i.imgur.com/yaUpVlL.jpg);
+	border-radius: 4px;
+}
+.b-catalog_entry>a[href *='characters/86-'] img, .entry-tooltip_container>.image-link[href *='characters/86-'] img, .b-catalog_entry-tooltip a[href *='characters/86-'] img {
+    opacity: 0;
+}
+
+/* Kurisu */
+.b-catalog_entry a[href *='characters/34470-'] .image-cutter, .entry-tooltip_container>.image-link[href *='characters/34470-'], .b-catalog_entry-tooltip>a[href *='characters/34470-'] {
+	background-image: url(https://i.imgur.com/83qhBlY.jpg);
+	border-radius: 4px;
+}
+.b-catalog_entry>a[href *='characters/34470-'] img, .entry-tooltip_container>.image-link[href *='characters/34470-'] img, .b-catalog_entry-tooltip a[href *='characters/34470-'] img {
+    opacity: 0;
+}
+
+/* Misaki */
+.b-catalog_entry a[href *='characters/41402-'] .image-cutter, .entry-tooltip_container>.image-link[href *='characters/41402-'], .b-catalog_entry-tooltip>a[href *='characters/41402-'] {
+	background-image: url(https://i.imgur.com/hY84mdY.jpg);
+	border-radius: 4px;
+}
+.b-catalog_entry>a[href *='characters/41402-'] img, .entry-tooltip_container>.image-link[href *='characters/41402-'] img, .b-catalog_entry-tooltip a[href *='characters/41402-'] img {
+    opacity: 0;
+}
+
+/* Araragi */
+.b-catalog_entry a[href *='characters/22036-'] .image-cutter, .entry-tooltip_container>.image-link[href *='characters/22036-'], .b-catalog_entry-tooltip>a[href *='characters/22036-'] {
+	background-image: url(https://i.imgur.com/Wl52FGq.jpg);
+	border-radius: 4px;
+}
+.b-catalog_entry>a[href *='characters/22036-'] img, .entry-tooltip_container>.image-link[href *='characters/22036-'] img, .b-catalog_entry-tooltip a[href *='characters/22036-'] img {
+    opacity: 0;
+}
+
+/* Squall */
+.b-catalog_entry a[href *='characters/11632-'] .image-cutter, .entry-tooltip_container>.image-link[href *='characters/11632-'], .b-catalog_entry-tooltip>a[href *='characters/11632-'] {
+	background-image: url(https://i.imgur.com/U2m5wsO.jpg);
+	border-radius: 4px;
+}
+.b-catalog_entry>a[href *='characters/11632-'] img, .entry-tooltip_container>.image-link[href *='characters/11632-'] img, .b-catalog_entry-tooltip a[href *='characters/11632-'] img {
+    opacity: 0;
+}
+
+/* Vinsent */
+.b-catalog_entry a[href *='characters/642-'] .image-cutter, .entry-tooltip_container>.image-link[href *='characters/642-'], .b-catalog_entry-tooltip>a[href *='characters/642-'] {
+	background-image: url(https://i.imgur.com/VJ9jVVD.jpg);
+	border-radius: 4px;
+}
+.b-catalog_entry>a[href *='characters/642-'] img, .entry-tooltip_container>.image-link[href *='characters/642-'] img, .b-catalog_entry-tooltip a[href *='characters/642-'] img {
+    opacity: 0;
+}
+
+/* Mashu */
+.b-catalog_entry a[href *='characters/40450-'] .image-cutter, .entry-tooltip_container>.image-link[href *='characters/40450-'], .b-catalog_entry-tooltip>a[href *='characters/40450-'] {
+	background-image: url(https://i.imgur.com/S9FPC7m.jpg);
+	border-radius: 4px;
+}
+.b-catalog_entry>a[href *='characters/40450-'] img, .entry-tooltip_container>.image-link[href *='characters/40450-'] img, .b-catalog_entry-tooltip a[href *='characters/40450-'] img {
+    opacity: 0;
+}
+
+/* Beatris */
+.b-catalog_entry a[href *='characters/118767-'] .image-cutter, .entry-tooltip_container>.image-link[href *='characters/118767-'], .b-catalog_entry-tooltip>a[href *='characters/118767-'] {
+	background-image: url(https://i.imgur.com/cpFynfo.jpg);
+	border-radius: 4px;
+}
+.b-catalog_entry>a[href *='characters/118767-'] img, .entry-tooltip_container>.image-link[href *='characters/118767-'] img, .b-catalog_entry-tooltip a[href *='characters/118767-'] img {
+    opacity: 0;
+}
+
+/* Lain */
+.b-catalog_entry a[href *='characters/2219-'] .image-cutter, .entry-tooltip_container>.image-link[href *='characters/2219-'], .b-catalog_entry-tooltip>a[href *='characters/2219-'] {
+	background-image: url(https://i.imgur.com/XZqTOr6.jpg);
+	border-radius: 4px;
+}
+.b-catalog_entry>a[href *='characters/2219-'] img, .entry-tooltip_container>.image-link[href *='characters/2219-'] img, .b-catalog_entry-tooltip a[href *='characters/2219-'] img {
+    opacity: 0;
+}
+
+/* Ougi */
+.b-catalog_entry a[href *='characters/90393-'] .image-cutter, .entry-tooltip_container>.image-link[href *='characters/90393-'], .b-catalog_entry-tooltip>a[href *='characters/90393-'] {
+	background-image: url(https://i.imgur.com/0kXGAW8.jpg);
+	border-radius: 4px;
+}
+.b-catalog_entry>a[href *='characters/90393-'] img, .entry-tooltip_container>.image-link[href *='characters/90393-'] img, .b-catalog_entry-tooltip a[href *='characters/90393-'] img {
+    opacity: 0;
+}
+
+/* Schierke */
+.b-catalog_entry a[href *='characters/7864-'] .image-cutter, .entry-tooltip_container>.image-link[href *='characters/7864-'], .b-catalog_entry-tooltip>a[href *='characters/7864-'] {
+	background-image: url(https://i.imgur.com/V8y6BOO.jpg);
+	border-radius: 4px;
+}
+.b-catalog_entry>a[href *='characters/7864-'] img, .entry-tooltip_container>.image-link[href *='characters/7864-'] img, .b-catalog_entry-tooltip a[href *='characters/7864-'] img {
+    opacity: 0;
+}
+
+/* Cibo */
+.b-catalog_entry a[href *='characters/3763-'] .image-cutter, .entry-tooltip_container>.image-link[href *='characters/3763-'], .b-catalog_entry-tooltip>a[href *='characters/3763-'] {
+	background-image: url(https://i.imgur.com/M48g3M6.jpg);
+	border-radius: 4px;
+}
+.b-catalog_entry>a[href *='characters/3763-'] img, .entry-tooltip_container>.image-link[href *='characters/3763-'] img, .b-catalog_entry-tooltip a[href *='characters/3763-'] img {
+    opacity: 0;
+}
+
+/* Sanakan */
+.b-catalog_entry a[href *='characters/10882-'] .image-cutter, .entry-tooltip_container>.image-link[href *='characters/10882-'], .b-catalog_entry-tooltip>a[href *='characters/10882-'] {
+	background-image: url(https://i.imgur.com/Oba2G48.jpg);
+	border-radius: 4px;
+}
+.b-catalog_entry>a[href *='characters/10882-'] img, .entry-tooltip_container>.image-link[href *='characters/10882-'] img, .b-catalog_entry-tooltip a[href *='characters/10882-'] img {
+    opacity: 0;
+}
+
+/* Kongou */
+.b-catalog_entry a[href *='characters/88651-'] .image-cutter, .entry-tooltip_container>.image-link[href *='characters/88651-'], .b-catalog_entry-tooltip>a[href *='characters/88651-'] {
+	background-image: url(https://i.imgur.com/kKbpKAS.jpg);
+	border-radius: 4px;
+}
+.b-catalog_entry>a[href *='characters/88651-'] img, .entry-tooltip_container>.image-link[href *='characters/88651-'] img, .b-catalog_entry-tooltip a[href *='characters/88651-'] img {
+    opacity: 0;
+}
