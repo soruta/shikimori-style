@@ -1,0 +1,65 @@
+/* CHANGE IMG */
+
+/* animes */
+.b-catalog_entry a[href *='animes/339-'] .image-cutter, .entry-tooltip_container>.image-link[href *='animes/339-'] {
+	background-image: url(https://i.imgur.com/upnxyIo.jpg);
+}
+.b-catalog_entry>a[href *='animes/339-'] img, .entry-tooltip_container>.image-link[href *='animes/339-'] img {
+    opacity: 0;
+}
+
+.b-catalog_entry a[href *='animes/35247-'] .image-cutter, .entry-tooltip_container>.image-link[href *='animes/35247-'] {
+	background-image: url(https://i.imgur.com/lwLYr70.jpg);
+}
+.b-catalog_entry>a[href *='animes/35247-'] img, .entry-tooltip_container>.image-link[href *='animes/35247-'] img {
+    opacity: 0;
+}
+
+.b-catalog_entry a[href *='animes/z790-'] .image-cutter, .entry-tooltip_container>.image-link[href *='animes/z790-'] {
+	background-image: url(https://i.imgur.com/kqeixDo.jpg);
+}
+.b-catalog_entry>a[href *='animes/z790-'] img, .entry-tooltip_container>.image-link[href *='animes/z790-'] img {
+    opacity: 0;
+}
+
+.b-catalog_entry a[href *='animes/32-'] .image-cutter, .entry-tooltip_container>.image-link[href *='animes/32-'] {
+	background-image: url(https://i.imgur.com/AcYTonm.jpg);
+}
+.b-catalog_entry>a[href *='animes/32-'] img, .entry-tooltip_container>.image-link[href *='animes/32-'] img {
+    opacity: 0;
+}
+
+.b-catalog_entry a[href *='animes/10163-'] .image-cutter, .entry-tooltip_container>.image-link[href *='animes/10163-'] {
+	background-image: url(https://i.imgur.com/ICgvwVR.jpg);
+}
+.b-catalog_entry>a[href *='animes/10163-'] img, .entry-tooltip_container>.image-link[href *='animes/10163-'] img {
+    opacity: 0;
+}
+
+.b-catalog_entry a[href *='animes/35557-'] .image-cutter, .entry-tooltip_container>.image-link[href *='animes/35557-'] {
+    background-image: url(https://i.imgur.com/VRE2JO6.jpg);
+}
+.b-catalog_entry>a[href *='animes/35557-'] img, .entry-tooltip_container>.image-link[href *='animes/35557-'] img {
+    opacity: 0;
+}
+
+.b-catalog_entry a[href *='animes/11111-'] .image-cutter, .entry-tooltip_container>.image-link[href *='animes/11111-'] {
+    background-image: url(https://i.imgur.com/532H0gg.png);
+}
+.b-catalog_entry>a[href *='animes/11111-'] img, .entry-tooltip_container>.image-link[href *='animes/11111-'] img {
+    opacity: 0;
+}
+
+.b-catalog_entry a[href *='animes/12115-'] .image-cutter, .entry-tooltip_container>.image-link[href *='animes/12115-'] {
+    background-image: url(https://i.imgur.com/pGfu4e2.jpg);
+}
+.b-catalog_entry>a[href *='animes/12115-'] img, .entry-tooltip_container>.image-link[href *='animes/12115-'] img {
+    opacity: 0;
+}
+
+.b-catalog_entry a[href *='animes/34599-'] .image-cutter, .entry-tooltip_container>.image-link[href *='animes/34599-'] {
+    background-image: url(https://i.imgur.com/kkVI886.jpg);
+}
+.b-catalog_entry>a[href *='animes/34599-'] img, .entry-tooltip_container>.image-link[href *='animes/34599-'] img {
+    opacity: 0;
+}
