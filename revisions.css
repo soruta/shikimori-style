@@ -2,14 +2,12 @@
   animation-name: none !important;
 }
 
-.p-profiles-show {
-  .b-club .logo, .b-user.avatar img {
-    transition: .2s ease !important;
-  }
-  
-  .b-club .logo:hover, .b-user.avatar img:hover {
-    transform: none !important;
-  }
+.b-club .logo, .b-user.avatar img {
+  transition: .2s ease !important;
+}
+
+.b-club .logo:hover, .b-user.avatar img:hover {
+  transform: none !important;
 }
 
 .c-column.b-catalog_entry:hover {
