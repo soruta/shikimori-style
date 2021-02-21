@@ -1,31 +1,31 @@
 .activity .graph.vertical .line .bar {
-  animation-name: none;
+  animation-name: none !important;
 }
 
 .p-profiles-show {
   .b-club .logo, .b-user.avatar img {
-    transition: .2s ease;
+    transition: .2s ease !important;
   }
   
   .b-club .logo:hover, .b-user.avatar img:hover {
-    transform: none;
+    transform: none !important;
   }
 }
 
 .c-column.b-catalog_entry:hover {
-    transform: none;
-    box-shadow: 0 2px 6px 2px #1a1d21;
-    background: #1a1d21;
+    transform: none !important;
+    box-shadow: 0 2px 6px 2px #1a1d21 !important;
+    background: #1a1d21 !important;
 }
 
 .l-top_menu-v2 .menu-icon.mail:after {
-  animation: none;
+  animation: none !important;
 }
 
 @media (min-width: 1200px) {
   .p-profiles .profile-head {
     .c-info .c-additionals, .c-brief header .notice {
-      text-shadow: 0 0 0px #00b9ff;
+      text-shadow: 0 0 0 #00b9ff !important;
     }
     
     .c-history .entry .title {
