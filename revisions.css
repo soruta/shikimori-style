@@ -18,6 +18,10 @@
     background: #1a1d21;
 }
 
+.l-top_menu-v2 .menu-icon.mail:after {
+  animation: none;
+}
+
 @media (min-width: 1200px) {
   .p-profiles .profile-head {
     .c-info .c-additionals, .c-brief header .notice {
