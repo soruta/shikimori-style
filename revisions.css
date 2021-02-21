@@ -22,7 +22,7 @@
   animation: none !important;
 }
 
-@media (min-width: 1200px) {
+@media(min-width: 1200px) {
   .p-profiles .profile-head {
     .c-info .c-additionals, .c-brief header .notice {
       text-shadow: 0 0 0 #00b9ff !important;
