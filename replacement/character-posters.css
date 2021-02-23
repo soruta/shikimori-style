@@ -3,6 +3,142 @@
 	background: transparent;
 }
 
+.p-profiles-show .about img[alt*="Guts"] {
+	visibility: hidden;
+}
+.p-profiles-show .about .cover[data-tooltip_url*="guts"] .image-cutter {
+	background: url("https://i.pinimg.com/564x/4d/d3/2d/4dd32d7f661781f31ba89b70a6e75aaa.jpg");
+	background-size: cover;
+}
+
+.p-profiles-show .about img[alt*="Lelouch Lamperouge"] {
+	visibility: hidden;
+}
+.p-profiles-show .about .cover[data-tooltip_url*="lelouch-lamperouge"] .image-cutter {
+	background: url("https://i.pinimg.com/564x/35/f8/16/35f816952d3fc26d3d10d1a6da530956.jpg");
+	background-size: cover;
+}
+
+.p-profiles-show .about img[alt*="Rintarou Okabe"] {
+	visibility: hidden;
+}
+.p-profiles-show .about .cover[data-tooltip_url*="rintarou-okabe"] .image-cutter {
+	background: url("https://i.pinimg.com/564x/c9/c2/0e/c9c20e390ca6205ec4dc8f136be4422a.jpg");
+	background-size: cover;
+}
+
+.p-profiles-show .about img[alt*="Pain"] {
+	visibility: hidden;
+}
+.p-profiles-show .about .cover[data-tooltip_url*="pain"] .image-cutter {
+	background: url("https://i.pinimg.com/564x/f5/29/cd/f529cdbe50789c129ea5d1caf7bfa64f.jpg");
+	background-size: cover;
+}
+
+.p-profiles-show .about img[alt*="Itachi Uchiha"] {
+	visibility: hidden;
+}
+.p-profiles-show .about .cover[data-tooltip_url*="itachi-uchiha"] .image-cutter {
+	background: url("https://i.pinimg.com/564x/8a/f8/a6/8af8a6d99cdada0b7a2007445ae97187.jpg?b=t");
+	background-size: cover;
+}
+
+.p-profiles-show .about img[alt*="Madara Uchiha"] {
+	visibility: hidden;
+}
+.p-profiles-show .about .cover[data-tooltip_url*="madara-uchiha"] .image-cutter {
+	background: url("https://i.pinimg.com/564x/bb/f1/84/bbf1845f665d841ffae43a80c77fd155.jpg");
+	background-size: cover;
+}
+
+.p-profiles-show .about img[alt*="Sasuke Uchiha"] {
+	visibility: hidden;
+}
+.p-profiles-show .about .cover[data-tooltip_url*="sasuke-uchiha"] .image-cutter {
+	background: url("https://cdna.artstation.com/p/assets/images/images/005/560/506/large/inhyuk-lee-.jpg?1491974124");
+	background-size: cover;
+}
+
+.p-profiles-show .about img[alt*="Orochimaru"] {
+	visibility: hidden;
+}
+.p-profiles-show .about .cover[data-tooltip_url*="orochimaru"] .image-cutter {
+	background: url("https://i.pinimg.com/564x/90/90/ca/9090ca81a38d2ad6436ad9bc1f19671a.jpg");
+	background-size: cover;
+}
+
+.p-profiles-show .about img[alt*="Albedo"] {
+	visibility: hidden;
+}
+.p-profiles-show .about .cover[data-tooltip_url*="albedo"] .image-cutter {
+	background: url("https://pbs.twimg.com/media/Dn8RneMVsAAWFT_.jpg");
+	background-size: cover;
+}
+
+.p-profiles-show .about img[alt*="Ryuuko Matoi"] {
+	visibility: hidden;
+}
+.p-profiles-show .about .cover[data-tooltip_url*="ryuuko-matoi"] .image-cutter {
+	background: url("https://i.pinimg.com/564x/8b/a6/0c/8ba60c8fd0f0823318501e55874da363.jpg");
+	background-size: cover;
+}
+
+.p-profiles-show .about img[alt*="Rory Mercury"] {
+	visibility: hidden;
+}
+.p-profiles-show .about .cover[data-tooltip_url*="rory-mercury"] .image-cutter {
+	background: url("https://i.pinimg.com/564x/7d/7f/77/7d7f7793ec008b4e2bf0593ec27ff095.jpg");
+	background-size: cover;
+}
+
+.p-profiles-show .about img[alt*="C.C."] {
+	visibility: hidden;
+}
+.p-profiles-show .about .cover[data-tooltip_url*="c-c"] .image-cutter {
+	background: url("https://i.pinimg.com/564x/61/0c/9a/610c9a871d42d5d8ce3c5ea51a331577.jpg");
+	background-size: cover;
+}
+
+.p-profiles-show .about img[alt*="Mei Misaki"] {
+	visibility: hidden;
+}
+.p-profiles-show .about .cover[data-tooltip_url*="mei-misaki"] .image-cutter {
+	background: url("https://i.pinimg.com/564x/98/92/c2/9892c2b2e215975c955a23fdd89dd953.jpg");
+	background-size: cover;
+}
+
+.p-profiles-show .about img[alt*="Megumin"] {
+	visibility: hidden;
+}
+.p-profiles-show .about .cover[data-tooltip_url*="megumin"] .image-cutter {
+	background: url("https://i.pinimg.com/564x/50/ae/80/50ae80c2215edc838141ddc120c775e8.jpg");
+	background-size: cover;
+}
+
+.p-profiles-show .about img[alt*="Aqua"] {
+	visibility: hidden;
+}
+.p-profiles-show .about .cover[data-tooltip_url*="aqua"] .image-cutter {
+	background: url("https://i.pinimg.com/564x/ac/5e/e8/ac5ee886ee5ba0075d09923cc7752b7d.jpg");
+	background-size: cover;
+}
+
+.p-profiles-show .about img[alt*="Narberal Gamma"] {
+	visibility: hidden;
+}
+.p-profiles-show .about .cover[data-tooltip_url*="narberal-gamma"] .image-cutter {
+	background: url("https://i.pinimg.com/564x/2e/83/55/2e8355fb583e56bf163d9517780a3927.jpg");
+	background-size: cover;
+}
+
+.p-profiles-show .about img[alt*="YoRHa 2-gou B-gata"] {
+	visibility: hidden;
+}
+.p-profiles-show .about .cover[data-tooltip_url*="yorha-2-gou-b-gata"] .image-cutter {
+	background: url("https://i.pinimg.com/564x/17/d7/69/17d7695bec410fe761713b30f4832eaa.jpg");
+	background-size: cover;
+}
+
 /* Asuka */
 .b-catalog_entry a[href *='characters/94-'] .image-cutter, .entry-tooltip_container>.image-link[href *='characters/94-'], .b-catalog_entry-tooltip>a[href *='characters/94-'] {
 	background-image: url(https://i.imgur.com/yWGcpFE.jpg);
