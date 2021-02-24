@@ -6,6 +6,7 @@
 /* Asuka */
 .b-catalog_entry a[href *='characters/94-'] .image-cutter, .entry-tooltip_container>.image-link[href *='characters/94-'], .b-catalog_entry-tooltip>a[href *='characters/94-'] {
 	background-image: url(https://i.imgur.com/6aafaGB.jpg);
+	background-size: cover;
 	border-radius: 4px;
 }
 .b-catalog_entry>a[href *='characters/94-'] img, .entry-tooltip_container>.image-link[href *='characters/94-'] img, .b-catalog_entry-tooltip a[href *='characters/94-'] img {
@@ -15,6 +16,7 @@
 /* Ayanami */
 .b-catalog_entry a[href *='characters/86-'] .image-cutter, .entry-tooltip_container>.image-link[href *='characters/86-'], .b-catalog_entry-tooltip>a[href *='characters/86-'] {
 	background-image: url(https://i.imgur.com/b2DkXNb.jpg);
+	background-size: cover;
 	border-radius: 4px;
 }
 .b-catalog_entry>a[href *='characters/86-'] img, .entry-tooltip_container>.image-link[href *='characters/86-'] img, .b-catalog_entry-tooltip a[href *='characters/86-'] img {
@@ -24,6 +26,7 @@
 /* Kurisu */
 .b-catalog_entry a[href *='characters/34470-'] .image-cutter, .entry-tooltip_container>.image-link[href *='characters/34470-'], .b-catalog_entry-tooltip>a[href *='characters/34470-'] {
 	background-image: url(https://i.imgur.com/hrQsdoc.jpg);
+	background-size: cover;
 	border-radius: 4px;
 }
 .b-catalog_entry>a[href *='characters/34470-'] img, .entry-tooltip_container>.image-link[href *='characters/34470-'] img, .b-catalog_entry-tooltip a[href *='characters/34470-'] img {
@@ -31,11 +34,12 @@
 }
 
 /* Misaki */
-.b-catalog_entry a[href *='characters/41402-'] .image-cutter, .entry-tooltip_container>.image-link[href *='characters/41402-'], .b-catalog_entry-tooltip>a[href *='characters/41402-'] {
+.b-catalog_entry a[href *='characters/z41402-'] .image-cutter, .entry-tooltip_container>.image-link[href *='characters/z41402-'], .b-catalog_entry-tooltip>a[href *='characters/z41402-'] {
 	background-image: url(https://i.imgur.com/JWMmaid.jpg);
+	background-size: cover;
 	border-radius: 4px;
 }
-.b-catalog_entry>a[href *='characters/41402-'] img, .entry-tooltip_container>.image-link[href *='characters/41402-'] img, .b-catalog_entry-tooltip a[href *='characters/41402-'] img {
+.b-catalog_entry>a[href *='characters/z41402-'] img, .entry-tooltip_container>.image-link[href *='characters/z41402-'] img, .b-catalog_entry-tooltip a[href *='characters/z41402-'] img {
     opacity: 0;
 }
 
