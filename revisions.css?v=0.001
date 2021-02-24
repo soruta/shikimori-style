@@ -1,4 +1,22 @@
+#profiles_show .cc-achievements, #profiles_show .cc-franchises {
+  display: block;
+}
 
+#profiles_show .achievements .c-column:nth-child(1) .cc-achievements .b-achievement {
+    float: left;
+    margin-left: 1%;
+    position: relative;
+    width: 49%;
+    margin-bottom: 2%;
+}
+
+#profiles_show .achievements .c-column:nth-child(2) .cc-achievements .b-achievement {
+    float: left;
+    margin-right: 1%;
+    position: relative;
+    width: 49%;
+    margin-bottom: 2%;
+}
 
 .activity .graph.vertical .line .bar {
   animation-name: none !important;
