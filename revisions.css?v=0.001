@@ -1,3 +1,5 @@
+
+
 .activity .graph.vertical .line .bar {
   animation-name: none !important;
 }
