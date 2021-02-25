@@ -1,0 +1,283 @@
+.b-badge.level-0 img,
+.b-badge.level-0 img:hover,
+.b-badge .b-tooltipped .level-0,
+.b-badge .b-tooltipped .level-0:hover,
+.p-profiles-show .achievements .cc-franchises .b-badge:before:,
+.p-profiles-show .achievements .cc-franchises .b-badge:before:hover,
+.b-badge.level-0:not(:hover) img,
+.b-badge.unavailable:not(:hover) img {
+	transition: .3s ease;
+}
+
+.cc-franchises .b-badge::after, .p-achievements.p-profiles-index .c-franchises .b-badge::after {
+    content: attr(data-progress) "%";
+    text-align: right;
+    width: 55px;
+    height: 55px!important;
+    line-height: 94px!important;
+    text-shadow: 0 0 0px black, 0 5px 10px rgba(0, 0, 0, 0.7!important);
+    padding: 10px 6px 6px!important;
+    z-index: 1;
+}
+
+.cc-franchises .b-badge[data-progress='100']:hover::after, .p-achievements.p-profiles-index .c-franchises .b-badge[data-progress='100']:hover:after {
+    box-shadow: 0 -20px 100px -20px #ffffff4a inset;
+    border-radius: 12px;
+}
+
+.cc-franchises a {
+	transition: 0.3s ease;
+}
+
+.p-profiles-show a.b-badge:hover:before {
+	box-shadow: none!important;
+}
+
+.cc-franchises .b-badge::after, .cc-franchises .b-badge::before, .p-achievements.p-profiles-index .c-franchises .b-badge::after, .p-achievements.p-profiles-index .c-franchises .b-badge::before {
+    display: block;
+    height: auto;
+    position: absolute;
+    top: auto;
+    bottom: 0px;
+    right: 0;
+    padding: 10px 12px 6px;
+    border-radius: 0 0 6px 6px;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 20px;
+    text-shadow: 0 0 60px black, 0 60px 30px rgba(0, 0, 0, 0.1);
+    backface-visibility: hidden;
+    opacity: 1;
+}
+
+.cc-franchises .b-badge[original-title]::before, .p-achievements.p-profiles-index .c-franchises .b-badge[original-title]::before {
+    content: attr(original-title);
+    width: calc(100% - 65px);
+    text-align: left;
+    padding-right: 53px;
+    left: 0;
+}
+
+.cc-franchises .b-badge[data-progress='100']::before, .cc-franchises .b-badge:hover::before, .p-achievements.p-profiles-index .c-franchises .b-badge[data-progress='100']::before, .p-achievements.p-profiles-index .c-franchises .b-badge:hover::before {
+    background: linear-gradient(transparent 0%, rgba(0, 0, 0, 0.72)85%)!important;
+}
+
+#profiles_show .b-achievement.is-badge::before {
+  	font-size: 14px;
+    height: auto;
+    line-height: 1.3;
+    width: auto;
+    font-weight: bold;
+  	text-shadow: 0 1px 0 black, 0 0 5px black;
+  	background: linear-gradient(transparent 0%, rgba(0, 0, 0, 0.72)100%)!important;
+}
+
+.cc-franchises .b-badge[data-progress='100']::after, .p-achievements.p-profiles-index .c-franchises .b-badge[data-progress='100']::after {
+    content: '✔';
+    font-size: 26px;
+    color: #459e2f;
+    background: linear-gradient(135deg, transparent 292px, 0);
+    width: calc(100% - 10px)!important;
+    height: calc(100% - 15px)!important;
+    line-height: 20px!important;
+    box-shadow: border-radius: 9px;
+    transition: 0.2s ease;
+    display: flex;
+    align-items: flex-end;
+    top: 0;
+    justify-content: flex-end;
+    padding: 10px 6px 6px;
+    text-shadow: 0 0 0px black, 0 5px 10px rgba(0, 0, 0, 0.7);
+    z-index: 1;
+}
+
+.cc-franchises, .c-franchises .cc {
+  	padding: 10px;
+}
+
+.p-profiles-show .achievements .cc-franchises .b-badge {
+    float: left;
+    margin-right: 1.5% !important;
+    position: relative;
+    width: 23.875% !important;
+}
+
+.p-profiles-show .achievements .cc-franchises .b-badge:nth-child(4n) {
+    margin-right: 0 !important;
+}
+
+a.b-badge.b-tooltipped {
+    margin-bottom: 8px !important;
+}
+
+.p-profiles-show .achievements .cc-franchises .b-badge:before {
+    font-size: 14px;
+    height: auto;
+    line-height: 1.5;
+    width: auto;
+}
+
+#profiles_show .b-achievement.is-badge:hover:before {
+  	height: auto;
+  	border-radius: 0;
+  	opacity: 1;
+}
+
+.b-achievement.is-badge:before {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    background: rgba(17,34,51,0.5);
+    bottom: 2px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    color: #fff;
+    content: attr(data-hint);
+    font-size: 11px;
+    height: auto;
+    left: 0;
+    line-height: 10px;
+    padding: 0 8px;
+    position: absolute;
+    width: 100%;
+    z-index: 1;
+  	bottom: 0;
+}
+
+#profiles_show .cc-achievements, #profiles_show .cc-franchises {
+  display: block;
+}
+
+#profiles_show .achievements .c-column .cc-achievements .b-achievement:nth-child(1),
+#profiles_show .achievements .c-column .cc-achievements .b-achievement:nth-child(3) {
+    float: left;
+    margin-right: 1%;
+    position: relative;
+    width: 49%;
+    margin-bottom: 2%;
+}
+
+#profiles_show .achievements .c-column .cc-achievements .b-achievement:nth-child(2),
+#profiles_show .achievements .c-column .cc-achievements .b-achievement:nth-child(4) {
+    float: left;
+    margin-left: 1%;
+    position: relative;
+    width: 49%;
+    margin-bottom: 2%;
+}
+
+.b-badge[data-progress='99']::after,
+.b-badge[data-progress='98']::after,
+.b-badge[data-progress='97']::after,
+.b-badge[data-progress='96']::after,
+.b-badge[data-progress='95']::after,
+.b-badge[data-progress='94']::after,
+.b-badge[data-progress='93']::after,
+.b-badge[data-progress='92']::after,
+.b-badge[data-progress='91']::after,
+.b-badge[data-progress='90']::after,
+.b-badge[data-progress='89']::after,
+.b-badge[data-progress='88']::after,
+.b-badge[data-progress='87']::after,
+.b-badge[data-progress='86']::after,
+.b-badge[data-progress='85']::after,
+.b-badge[data-progress='84']::after,
+.b-badge[data-progress='83']::after,
+.b-badge[data-progress='82']::after,
+.b-badge[data-progress='81']::after,
+.b-badge[data-progress='80']::after,
+.b-badge[data-progress='79']::after,
+.b-badge[data-progress='78']::after,
+.b-badge[data-progress='77']::after,
+.b-badge[data-progress='76']::after,
+.b-badge[data-progress='75']::after,
+.b-badge[data-progress='74']::after,
+.b-badge[data-progress='73']::after {
+    background: linear-gradient(135deg, transparent 55px, #419541 0);
+}
+ 
+.b-badge[data-progress='72']::after,
+.b-badge[data-progress='71']::after,
+.b-badge[data-progress='70']::after,
+.b-badge[data-progress='69']::after,
+.b-badge[data-progress='68']::after,
+.b-badge[data-progress='67']::after,
+.b-badge[data-progress='66']::after,
+.b-badge[data-progress='65']::after,
+.b-badge[data-progress='64']::after,
+.b-badge[data-progress='63']::after,
+.b-badge[data-progress='62']::after,
+.b-badge[data-progress='61']::after,
+.b-badge[data-progress='60']::after {
+    background: linear-gradient(135deg, transparent 55px, #abaa16 0);
+}
+
+.b-badge[data-progress='59']::after,
+.b-badge[data-progress='58']::after,
+.b-badge[data-progress='57']::after,
+.b-badge[data-progress='56']::after,
+.b-badge[data-progress='55']::after,
+.b-badge[data-progress='54']::after,
+.b-badge[data-progress='53']::after,
+.b-badge[data-progress='52']::after,
+.b-badge[data-progress='51']::after,
+.b-badge[data-progress='50']::after,
+.b-badge[data-progress='49']::after,
+.b-badge[data-progress='48']::after,
+.b-badge[data-progress='47']::after,
+.b-badge[data-progress='46']::after,
+.b-badge[data-progress='45']::after,
+.b-badge[data-progress='44']::after,
+.b-badge[data-progress='43']::after,
+.b-badge[data-progress='42']::after,
+.b-badge[data-progress='41']::after,
+.b-badge[data-progress='40']::after {
+    background: linear-gradient(135deg, transparent 55px, #a78002 0);
+}
+
+.b-badge[data-progress='39']::after,
+.b-badge[data-progress='38']::after,
+.b-badge[data-progress='37']::after,
+.b-badge[data-progress='36']::after,
+.b-badge[data-progress='35']::after,
+.b-badge[data-progress='34']::after,
+.b-badge[data-progress='33']::after,
+.b-badge[data-progress='32']::after,
+.b-badge[data-progress='31']::after,
+.b-badge[data-progress='20']::after,
+.b-badge[data-progress='29']::after,
+.b-badge[data-progress='28']::after,
+.b-badge[data-progress='27']::after,
+.b-badge[data-progress='26']::after,
+.b-badge[data-progress='25']::after,
+.b-badge[data-progress='24']::after,
+.b-badge[data-progress='23']::after,
+.b-badge[data-progress='22']::after,
+.b-badge[data-progress='21']::after,
+.b-badge[data-progress='20']::after,
+.b-badge[data-progress='19']::after,
+.b-badge[data-progress='18']::after,
+.b-badge[data-progress='17']::after,
+.b-badge[data-progress='16']::after,
+.b-badge[data-progress='15']::after {
+    background: linear-gradient(135deg, transparent 55px, #8e7149 0);
+}
+
+.b-badge[data-progress='14']::after,
+.b-badge[data-progress='13']::after,
+.b-badge[data-progress='12']::after,
+.b-badge[data-progress='11']::after,
+.b-badge[data-progress='10']::after,
+.b-badge[data-progress='9']::after,
+.b-badge[data-progress='8']::after,
+.b-badge[data-progress='7']::after,
+.b-badge[data-progress='6']::after,
+.b-badge[data-progress='5']::after,
+.b-badge[data-progress='4']::after,
+.b-badge[data-progress='3']::after,
+.b-badge[data-progress='2']::after,
+.b-badge[data-progress='1']::after,
+.b-badge[data-progress='0']::after {
+    background: linear-gradient(135deg, transparent 55px, #8a8a8a 0);
+}
