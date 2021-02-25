@@ -1,74 +1,63 @@
-/* CHANGE IMG */
-
 /* animes */
-.b-catalog_entry a[href *='animes/339-'] .image-cutter, .entry-tooltip_container>.image-link[href *='animes/339-'] {
-	background-image: url(https://i.imgur.com/upnxyIo.jpg);
-	background-size: cover;
+.c-animes[id="339"] .image-cutter {
+	background-image: url(https://i.imgur.com/upnxyIo.jpg) 50% / cover;
 }
-.b-catalog_entry>a[href *='animes/339-'] img, .entry-tooltip_container>.image-link[href *='animes/339-'] img {
+.c-animes[id="339"] .image-cutter img {
 	opacity: 0;
 }
 
-.b-catalog_entry a[href *='animes/35247-'] .image-cutter, .entry-tooltip_container>.image-link[href *='animes/35247-'] {
-	background-image: url(https://i.imgur.com/lwLYr70.jpg);
-	background-size: cover;
+.c-animes[id="35247"] .image-cutter {
+	background-image: url(https://i.imgur.com/lwLYr70.jpg) 50% / cover;
 }
-.b-catalog_entry>a[href *='animes/35247-'] img, .entry-tooltip_container>.image-link[href *='animes/35247-'] img {
+.c-animes[id="35247"] .image-cutter img {
 	opacity: 0;
 }
 
-.b-catalog_entry a[href *='animes/z790-'] .image-cutter, .entry-tooltip_container>.image-link[href *='animes/z790-'] {
-	background-image: url(https://i.imgur.com/kqeixDo.jpg);
-	background-size: cover;
+.c-animes[id="z790"] .image-cutter {
+	background-image: url(https://i.imgur.com/kqeixDo.jpg) 50% / cover;
 }
-.b-catalog_entry>a[href *='animes/z790-'] img, .entry-tooltip_container>.image-link[href *='animes/z790-'] img {
+.c-animes[id="z790"] .image-cutter img {
 	opacity: 0;
 }
 
-.b-catalog_entry a[href *='animes/32-'] .image-cutter, .entry-tooltip_container>.image-link[href *='animes/32-'] {
-	background-image: url(https://i.imgur.com/AcYTonm.jpg);
-	background-size: cover;
+.c-animes[id="32"] .image-cutter {
+	background-image: url(https://i.imgur.com/AcYTonm.jpg) 50% / cover;
 }
-.b-catalog_entry>a[href *='animes/32-'] img, .entry-tooltip_container>.image-link[href *='animes/32-'] img {
+.c-animes[id="32"] .image-cutter img {
 	opacity: 0;
 }
 
-.b-catalog_entry a[href *='animes/10163-'] .image-cutter, .entry-tooltip_container>.image-link[href *='animes/10163-'] {
-	background-image: url(https://i.imgur.com/ICgvwVR.jpg);
-	background-size: cover;
+.c-animes[id="10163"] .image-cutter {
+	background-image: url(https://i.imgur.com/ICgvwVR.jpg) 50% / cover;
 }
-.b-catalog_entry>a[href *='animes/10163-'] img, .entry-tooltip_container>.image-link[href *='animes/10163-'] img {
+.c-animes[id="10163"] .image-cutter img {
 	opacity: 0;
 }
 
-.b-catalog_entry a[href *='animes/35557-'] .image-cutter, .entry-tooltip_container>.image-link[href *='animes/35557-'] {
-	background-image: url(https://i.imgur.com/VRE2JO6.jpg);
-	background-size: cover;
+.c-animes[id="35557"] .image-cutter {
+	background-image: url(https://i.imgur.com/VRE2JO6.jpg) 50% / cover;
 }
-.b-catalog_entry>a[href *='animes/35557-'] img, .entry-tooltip_container>.image-link[href *='animes/35557-'] img {
+.c-animes[id="35557"] .image-cutter img {
 	opacity: 0;
 }
 
-.b-catalog_entry a[href *='animes/11111-'] .image-cutter, .entry-tooltip_container>.image-link[href *='animes/11111-'] {
-	background-image: url(https://i.imgur.com/532H0gg.png);
-	background-size: cover;
+.c-animes[id="11111"] .image-cutter {
+	background-image: url(https://i.imgur.com/532H0gg.png) 50% / cover;
 }
-.b-catalog_entry>a[href *='animes/11111-'] img, .entry-tooltip_container>.image-link[href *='animes/11111-'] img {
+.c-animes[id="11111"] .image-cutter img {
 	opacity: 0;
 }
 
-.b-catalog_entry a[href *='animes/12115-'] .image-cutter, .entry-tooltip_container>.image-link[href *='animes/12115-'] {
-	background-image: url(https://i.imgur.com/pGfu4e2.jpg);
-	background-size: cover;
+.c-animes[id="12115"] .image-cutter {
+	background-image: url(https://i.imgur.com/pGfu4e2.jpg) 50% / cover;
 }
-.b-catalog_entry>a[href *='animes/12115-'] img, .entry-tooltip_container>.image-link[href *='animes/12115-'] img {
+.c-animes[id="12115"] .image-cutter img {
 	opacity: 0;
 }
 
-.b-catalog_entry a[href *='animes/34599-'] .image-cutter, .entry-tooltip_container>.image-link[href *='animes/34599-'] {
-	background-image: url(https://i.imgur.com/kkVI886.jpg);
-	background-size: cover;
+.c-animes[id="12115"] .image-cutter {
+	background-image: url(https://i.imgur.com/kkVI886.jpg) 50% / cover;
 }
-.b-catalog_entry>a[href *='animes/34599-'] img, .entry-tooltip_container>.image-link[href *='animes/34599-'] img {
+.c-animes[id="12115"] .image-cutter img {
 	opacity: 0;
 }
