@@ -1,3 +1,7 @@
+body#profiles_show .profile-content .cc-2.block {
+    margin-bottom: 2rem;
+}
+
 .b-badge.level-0 img,
 .b-badge.level-0 img:hover,
 .b-badge .b-tooltipped .level-0,
