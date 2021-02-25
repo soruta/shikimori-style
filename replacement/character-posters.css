@@ -4,11 +4,8 @@
 }
 
 /* Asuka */
-.b-catalog_entry a[href *='characters/94-'] .image-cutter, .entry-tooltip_container>.image-link[href *='characters/94-'], .b-catalog_entry-tooltip a[href *='characters/94-'] {
+.c-character[id="94"] .image-cutter {
 	background: url(https://i.imgur.com/6aafaGB.jpg) 50% / cover;
-}
-.b-catalog_entry>a[href *='characters/94-'] img, .entry-tooltip_container>.image-link[href *='characters/94-'] img, .b-catalog_entry-tooltip a[href *='characters/94-'] img {
-    opacity: 0;
 }
 
 /* Ayanami */
