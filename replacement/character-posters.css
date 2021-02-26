@@ -177,7 +177,7 @@ a[href*="/characters/6203-"]::before {
 .d-cutted_covers a[href*="/characters/11632-"]::before,
 
 .b-catalog_entry-tooltip a[href*="/characters/642-"]::before,
-.d-cutted_covers a[href*="/characters/642-"]::before,
+.d-cutted_covers a.cover[href*="/characters/642-"] image-cutter::before,
 
 .b-catalog_entry-tooltip a[href*="/characters/90393-"]::before,
 .d-cutted_covers a[href*="/characters/90393-"]::before,
