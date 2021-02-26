@@ -4,7 +4,7 @@
   	margin: 0;
 }
 
-cc-favourites .c-character a.cover::before {
+.cc-favourites .c-character a.cover::before {
 	width: 100px;
   	height: 150px;
   	margin: 5px;
@@ -25,7 +25,8 @@ cc-favourites .c-character a.cover::before {
 	height: calc(100% - 6px);
 }
 
-.line a.data.name::before {
+.line a.data.name::before,
+a[href*="/characters/"][data-attrs]::before {
 	display: none;
 	visibility: hidden;
 }
