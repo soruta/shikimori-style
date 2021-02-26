@@ -4,11 +4,6 @@
   	margin: 0;
 }
 
-.b-catalog_entry-tooltip a.name::before {
-  	width: auto !important;
-  	height: auto !important;
-}
-
 cc-favourites .c-character a.cover::before {
 	width: 100px;
   	height: 150px;
