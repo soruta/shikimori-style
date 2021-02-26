@@ -27,7 +27,7 @@
 
 .line a.data.name::before,
 a[href*="/characters/"][data-attrs]::before {
-	opacity: 0;
+	display: none;
 	visibility: hidden;
 }
 
@@ -238,6 +238,6 @@ img[src*="/characters/"][src*="/35252."],
 img[src*="/characters/"][src*="/3180."],
 img[src*="/characters/"][src*="/6207."],
 img[src*="/characters/"][src*="/6203."] {
-  	display: none;
+  	opscity: 0;
   	visibility: hidden;
 }
