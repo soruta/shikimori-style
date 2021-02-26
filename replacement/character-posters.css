@@ -170,7 +170,10 @@ a[href*="/characters/3763-"]::before,
 a[href*="/characters/10882-"]::before,
 a[href*="/characters/88651-"]::before,
 a[href*="/characters/z70069-"]::before,
-a[href*="/characters/157797-"]::before,
+
+.b-catalog_entry-tooltip a[href*="/characters/157797-"]::before,
+.d-cutted_covers a[href*="/characters/157797-"]::before,
+
 a[href*="/characters/422-"]::before,
 a[href*="/characters/417-"]::before,
 a[href*="/characters/14-"]::before,
