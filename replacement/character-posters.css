@@ -157,33 +157,77 @@ a[href*="/characters/6203-"]::before {
 
 /* --- END CHARACTERS LIST --- */
 
-a[href*="/characters/94-"]::before,
-a[href*="/characters/86-"]::before,
-a[href*="/characters/34470-"]::before,
-a[href*="/characters/z41402-"]::before,
-a[href*="/characters/22036-"]::before,
-a[href*="/characters/11632-"]::before,
-a[href*="/characters/642-"]::before,
-a[href*="/characters/90393-"]::before,
-a[href*="/characters/7864-"]::before,
-a[href*="/characters/3763-"]::before,
-a[href*="/characters/10882-"]::before,
-a[href*="/characters/88651-"]::before,
-a[href*="/characters/z70069-"]::before,
+.b-catalog_entry-tooltip a[href*="/characters/94-"]::before,
+.d-cutted_covers a[href*="/characters/94-"]::before,
+
+.b-catalog_entry-tooltip a[href*="/characters/86-"]::before,
+.d-cutted_covers a[href*="/characters/86-"]::before,
+
+.b-catalog_entry-tooltip a[href*="/characters/34470-"]::before,
+.d-cutted_covers a[href*="/characters/34470-"]::before,
+
+.b-catalog_entry-tooltip a[href*="/characters/z41402-"]::before,
+.d-cutted_covers a[href*="/characters/z41402-"]::before,
+
+.b-catalog_entry-tooltip a[href*="/characters/22036-"]::before,
+.d-cutted_covers a[href*="/characters/22036-"]::before,
+
+.b-catalog_entry-tooltip a[href*="/characters/11632-"]::before,
+.d-cutted_covers a[href*="/characters/11632-"]::before,
+
+.b-catalog_entry-tooltip a[href*="/characters/642-"]::before,
+.d-cutted_covers a[href*="/characters/642-"]::before,
+
+.b-catalog_entry-tooltip a[href*="/characters/90393-"]::before,
+.d-cutted_covers a[href*="/characters/90393-"]::before,
+
+.b-catalog_entry-tooltip a[href*="/characters/7864-"]::before,
+.d-cutted_covers a[href*="/characters/7864-"]::before,
+
+.b-catalog_entry-tooltip a[href*="/characters/3763-"]::before,
+.d-cutted_covers a[href*="/characters/3763-"]::before,
+
+.b-catalog_entry-tooltip a[href*="/characters/10882-"]::before,
+.d-cutted_covers a[href*="/characters/10882-"]::before,
+
+.b-catalog_entry-tooltip a[href*="/characters/88651-"]::before,
+.d-cutted_covers a[href*="/characters/88651-"]::before,
+
+.b-catalog_entry-tooltip a[href*="/characters/z70069-"]::before,
+.d-cutted_covers a[href*="/characters/z70069-"]::before,
 
 .b-catalog_entry-tooltip a[href*="/characters/157797-"]::before,
 .d-cutted_covers a[href*="/characters/157797-"]::before,
 
-a[href*="/characters/422-"]::before,
-a[href*="/characters/417-"]::before,
-a[href*="/characters/14-"]::before,
-a[href*="/characters/153798-"]::before,
-a[href*="/characters/1111-"]::before,
-a[href*="/characters/116275-"]::before,
-a[href*="/characters/35252-"]::before,
-a[href*="/characters/3180-"]::before,
-a[href*="/characters/6207-"]::before,
-a[href*="/characters/6203-"]::before {
+.b-catalog_entry-tooltip a[href*="/characters/422-"]::before,
+.d-cutted_covers a[href*="/characters/422-"]::before,
+
+.b-catalog_entry-tooltip a[href*="/characters/417-"]::before,
+.d-cutted_covers a[href*="/characters/417-"]::before,
+
+.b-catalog_entry-tooltip a[href*="/characters/14-"]::before,
+.d-cutted_covers a[href*="/characters/14-"]::before,
+
+.b-catalog_entry-tooltip a[href*="/characters/153798-"]::before,
+.d-cutted_covers a[href*="/characters/153798-"]::before,
+
+.b-catalog_entry-tooltip a[href*="/characters/1111-"]::before,
+.d-cutted_covers a[href*="/characters/1111-"]::before,
+
+.b-catalog_entry-tooltip a[href*="/characters/116275-"]::before,
+.d-cutted_covers a[href*="/characters/116275-"]::before,
+
+.b-catalog_entry-tooltip a[href*="/characters/35252-"]::before,
+.d-cutted_covers a[href*="/characters/35252-"]::before,
+
+.b-catalog_entry-tooltip a[href*="/characters/3180-"]::before,
+.d-cutted_covers a[href*="/characters/3180-"]::before,
+
+.b-catalog_entry-tooltip a[href*="/characters/6207-"]::before,
+.d-cutted_covers a[href*="/characters/6207-"]::before,
+
+.b-catalog_entry-tooltip a[href*="/characters/6203-"]::before,
+.d-cutted_covers a[href*="/characters/6203-"]::before {
 	content: '';
 	position: absolute;
     	display: flex;
