@@ -25,10 +25,14 @@ cc-favourites .c-character a.cover::before {
 	height: calc(100% - 6px);
 }
 
+.line a.data.name::before {
+	display: none;
+	visibility: hidden;
+}
+
 /* --- CHARACTERS LIST --- */
 
 /* Asuka */
-
 .b-catalog_entry-tooltip a[href*="/characters/94-"]::before,
 .d-cutted_covers a[href*="/characters/94-"]::before {
 	background: url(https://i.imgur.com/6aafaGB.jpg) 50% / cover;
