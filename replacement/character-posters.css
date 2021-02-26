@@ -71,8 +71,7 @@ a[href*="/characters/"][data-attrs]::before {
 
 /* Vinsent */
 .b-catalog_entry-tooltip a[href*="/characters/642-"]::before,
-.d-cutted_covers a.cover[href*="/characters/642-"] .image-cutter::before,
-.c-image .c-poster img[src*="/characters/"][src*="/642."]::before {
+.d-cutted_covers a.cover[href*="/characters/642-"] .image-cutter::before {
 	background: url(https://i.imgur.com/VJ9jVVD.jpg) 50% / cover;
 }
 
