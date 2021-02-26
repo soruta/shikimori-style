@@ -1,6 +1,6 @@
 .b-catalog_entry-tooltip a::before {
   	width: 160px;
-  	height: 235px;
+  	height: 100%;
   	margin: 0;
 }
 
@@ -27,7 +27,7 @@
 
 .line a.data.name::before,
 a[href*="/characters/"][data-attrs]::before {
-	display: none;
+	opacity: 0;
 	visibility: hidden;
 }
 
