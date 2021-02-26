@@ -65,7 +65,8 @@ a[href*="/characters/11632-"]::before {
 }
 
 /* Vinsent */
-a[href*="/characters/642-"]::before {
+.b-catalog_entry-tooltip a[href*="/characters/642-"]::before,
+.d-cutted_covers a.cover[href*="/characters/642-"] image-cutter::before {
 	background: url(https://i.imgur.com/VJ9jVVD.jpg) 50% / cover;
 }
 
@@ -101,7 +102,7 @@ a[href*="/characters/z70069-"]::before {
 
 /* Nagatoro */
 .b-catalog_entry-tooltip a[href*="/characters/157797-"]::before,
-.d-cutted_covers a[href*="/characters/157797-"]::before {
+.d-cutted_covers a.cover[href*="/characters/157797-"] image-cutter::before {
 	background: url(https://i.imgur.com/gsZ8miV.jpg) 50% / cover;
 }
 
