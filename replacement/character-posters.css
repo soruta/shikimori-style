@@ -10,12 +10,6 @@
   	margin: 5px;
 }
 
-.cc.d-cutted_covers .c-character a.cover::before {
-  	width: 86px;
-  	height: 134px;
-  	margin: 5px;
-}
-
 .cc-4a .c-column a.cover::before {
     	margin: 3px;
     	position: absolute;
