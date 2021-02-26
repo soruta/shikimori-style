@@ -1,14 +1,14 @@
 /* mangas */
-.b-catalog_entry a[href *='mangas/110737-'] .image-cutter, .entry-tooltip_container>.image-link[href *='mangas/110737-'] {
-	background-image: url(https://i.imgur.com/Kdhs6M9.png);
+.c-manga[id="110737"] .image-cutter {
+	background-image: url(https://i.imgur.com/Kdhs6M9.png) 50% / cover;
 }
-.b-catalog_entry>a[href *='mangas/110737-'] img, .entry-tooltip_container>.image-link[href *='mangas/110737-'] img {
-    opacity: 0;
+.c-anime[id="110737"] .image-cutter img {
+	opacity: 0;
 }
 
-.b-catalog_entry a[href *='mangas/44489-'] .image-cutter, .entry-tooltip_container>.image-link[href *='mangas/44489-'] {
-	background-image: url(https://i.imgur.com/oMVcn9Z.jpg);
+.c-anime[id="44489"] .image-cutter {
+	background-image: url(https://i.imgur.com/oMVcn9Z.png) 50% / cover;
 }
-.b-catalog_entry>a[href *='mangas/44489-'] img, .entry-tooltip_container>.image-link[href *='mangas/44489-'] img {
-    opacity: 0;
+.c-anime[id="44489"] .image-cutter img {
+	opacity: 0;
 }
