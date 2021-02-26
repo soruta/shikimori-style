@@ -4,9 +4,9 @@
   	margin: 0;
 }
 
-.cc-favourites .c-character a.cover::before {
-	width: 100px;
-  	height: 150px;
+.cc-favourites .c-character a.cover image-cutter::before {
+	width: 100%;
+  	height: 100%;
   	margin: 5px;
 }
 
