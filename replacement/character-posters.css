@@ -103,6 +103,7 @@ a[href*="/characters/z70069-"]::before {
 .b-catalog_entry-tooltip a[href*="/characters/157797-"]::before,
 .d-cutted_covers a[href*="/characters/157797-"]::before,
 .c-image .c-poster img[src*="/characters/][src*="/157797."]::before {
+	content: '';
 	background: url(https://i.imgur.com/gsZ8miV.jpg) 50% / cover;
 }
 
