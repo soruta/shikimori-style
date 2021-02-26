@@ -4,7 +4,18 @@
   	margin: 0;
 }
 
-a.cover::before {
+.b-catalog_entry-tooltip a.name::before {
+  	width: auto !important;
+  	height: auto !important;
+}
+
+cc-favourites .c-character a.cover::before {
+	width: 100px;
+  	height: 150px;
+  	margin: 5px;
+}
+
+.cc.d-cutted_covers .c-character a.cover::before {
   	width: 86px;
   	height: 134px;
   	margin: 5px;
@@ -22,7 +33,9 @@ a.cover::before {
 /* --- CHARACTERS LIST --- */
 
 /* Asuka */
-a[href*="/characters/94-"]::before {
+
+.b-catalog_entry-tooltip a[href*="/characters/94-"]::before,
+.d-cutted_covers a[href*="/characters/94-"]::before {
 	background: url(https://i.imgur.com/6aafaGB.jpg) 50% / cover;
 }
 
@@ -87,7 +100,8 @@ a[href*="/characters/z70069-"]::before {
 }
 
 /* Nagatoro */
-a[href*="/characters/157797-"]::before {
+.b-catalog_entry-tooltip a[href*="/characters/157797-"]::before,
+.d-cutted_covers a[href*="/characters/157797-"]::before {
 	background: url(https://i.imgur.com/gsZ8miV.jpg) 50% / cover;
 }
 
