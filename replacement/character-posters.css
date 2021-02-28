@@ -29,9 +29,12 @@ a[href*="/characters/"][data-attrs]::before {
 
 /* Asuka */
 .b-catalog_entry-tooltip a[href*="/characters/94-"]::before,
-.d-cutted_covers a.cover[href*="/characters/94-"] .image-cutter::before,
-.c-poster img[alt="Asuka Langley Souryuu"] {
+.d-cutted_covers a.cover[href*="/characters/94-"] .image-cutter::before {
 	background: url(https://i.imgur.com/6aafaGB.jpg) 50% / cover;
+}
+.c-poster img[alt="Asuka Langley Souryuu"] {
+   content: url("https://dere.shikimori.org/system/user_images/original/5779/1314269.jpg");
+   object-position: 10% 50%;
 }
 
 /* Ayanami */
