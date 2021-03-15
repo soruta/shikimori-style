@@ -31,6 +31,21 @@ img[src*="/characters/"][src*="/3763."] {
 	content: url("https://i.imgur.com/bOSk7ax.jpg");
 }
 
+/* Killy */
+img[src*="/characters/"][src*="/3762."] {
+	content: url("https://i.imgur.com/EzZTq61.jpg");
+}
+
+/* Lain */
+img[src*="/characters/"][src*="/2219."] {
+	content: url("https://i.imgur.com/sX4Bc1W.jpg");
+}
+
+/* Re-L */
+img[src*="/characters/"][src*="/643."] {
+	content: url("https://i.imgur.com/TRFYjWw.jpg");
+}
+
 /* Nagatoro */
 img[src*="/characters/"][src*="/157797."] {
 	content: url("https://i.imgur.com/gsZ8miV.jpg");
