@@ -1,63 +1,51 @@
 /* animes */
-.c-anime[id="339"] .image-cutter {
-	background-image: url(https://i.imgur.com/upnxyIo.jpg) 50% / cover;
-}
-.c-anime[id="339"] .image-cutter img {
-	opacity: 0;
+
+/* Lain */
+img[src*="/animes/"][src*="/339."] {
+	content: url("https://i.imgur.com/jHNM8o4.jpg");
 }
 
-.c-anime[id="35247"] .image-cutter {
-	background-image: url(https://i.imgur.com/lwLYr70.jpg) 50% / cover;
-}
-.c-anime[id="35247"] .image-cutter img {
-	opacity: 0;
+/* Owarimonogatari */
+img[src*="/animes/"][src*="/35247."] {
+	content: url("https://i.imgur.com/lwLYr70.jpg");
 }
 
-.c-anime[id="z790"] .image-cutter {
-	background-image: url(https://i.imgur.com/kqeixDo.jpg) 50% / cover;
-}
-.c-anime[id="z790"] .image-cutter img {
-	opacity: 0;
+/* Ergo Proxy */
+img[src*="/animes/"][src*="/790."] {
+	content: url("https://i.imgur.com/kqeixDo.jpg");
 }
 
-.c-anime[id="32"] .image-cutter {
-	background-image: url(https://i.imgur.com/AcYTonm.jpg) 50% / cover;
-}
-.c-anime[id="32"] .image-cutter img {
-	opacity: 0;
+/* Evangelion */
+img[src*="/animes/"][src*="/32."] {
+	content: url("https://i.imgur.com/AcYTonm.jpg");
 }
 
-.c-anime[id="10163"] .image-cutter {
-	background-image: url(https://i.imgur.com/ICgvwVR.jpg) 50% / cover;
-}
-.c-anime[id="10163"] .image-cutter img {
-	opacity: 0;
+/* Control */
+img[src*="/animes/"][src*="/10163."] {
+	content: url("https://i.imgur.com/lTJZL6H.jpg");
 }
 
-.c-anime[id="35557"] .image-cutter {
-	background-image: url(https://i.imgur.com/VRE2JO6.jpg) 50% / cover;
-}
-.c-anime[id="35557"] .image-cutter img {
-	opacity: 0;
+/* Steins;Gate */
+img[src*="/animes/"][src*="/9253."] {
+	content: url("https://i.imgur.com/5p8VxtA.jpg");
 }
 
-.c-anime[id="11111"] .image-cutter {
-	background-image: url(https://i.imgur.com/532H0gg.png) 50% / cover;
-}
-.c-anime[id="11111"] .image-cutter img {
-	opacity: 0;
+/* Another */
+img[src*="/animes/"][src*="/11111."] {
+	content: url("https://i.imgur.com/tmxf8B9.jpg");
 }
 
-.c-anime[id="12115"] .image-cutter {
-	background-image: url(https://i.imgur.com/pGfu4e2.jpg) 50% / cover;
-}
-.c-anime[id="12115"] .image-cutter img {
-	opacity: 0;
+/* Berserk */
+img[src*="/animes/"][src*="/12115."] {
+	content: url("https://i.imgur.com/y2eyL5x.jpg");
 }
 
-.c-anime[id="12115"] .image-cutter {
-	background-image: url(https://i.imgur.com/kkVI886.jpg) 50% / cover;
+/* Houseki no Kuni */
+img[src*="/animes/"][src*="/35557."] {
+	content: url("https://i.imgur.com/KDpoaoh.jpg");
 }
-.c-anime[id="12115"] .image-cutter img {
-	opacity: 0;
+
+/* Made in Abyss */
+img[src*="/animes/"][src*="/34599."] {
+	content: url("https://i.imgur.com/KDpoaoh.jpg");
 }
