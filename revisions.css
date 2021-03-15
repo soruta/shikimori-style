@@ -27,6 +27,17 @@
   	padding: 0px 3px 0px;
 }
 
+.b-catalog_entry-tooltip .inner .additional-images .link img {
+    width: 48px;
+    height: 75px;
+    border-radius: 2px;
+    object-fit: cover;
+    object-position: center;
+}
+.b-catalog_entry-tooltip .inner .additional-images .link img:hover {
+	transform: none;
+}
+
 @media screen and (min-width: 1530px),
 @media screen and (min-width: 1830px) {
   	body#profiles_show .profile-head:before {
