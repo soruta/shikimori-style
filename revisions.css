@@ -20,12 +20,34 @@
   animation: none !important;
 }
 
-@media(min-width: 1200px) {
-  .p-profiles .profile-head .c-info .c-additionals, .c-brief header .notice {
-    text-shadow: 0 0 0 #00b9ff !important;
-  }
+.p-profiles .profile-head .c-history .entry:hover,
+.p-topics .l-menu .reviews .entry:hover,
+.p-topics .l-menu .clubs .entry:hover {
+  	transform: none;
+  	padding: 0px 3px 0px;
+}
 
-  .p-profiles .profile-head .c-history .entry .title {
+@media screen and (min-width: 1530px),
+@media screen and (min-width: 1830px) {
+  	body#profiles_show .profile-head:before {
+      	box-shadow: none;
+  	}
+}
+
+@media(min-width: 1200px) {
+    .l-page {
+  		background-color: rgba(var(--menu-back), 0.9);
+  	}
+  
+    .p-profiles .profile-head .c-brief .avatar img {
+      	box-shadow: -15px 55px 25px -50px rgb(0 0 0 / 50%), 15px 55px 25px -50px rgb(0 0 0 / 50%);
+  	}
+  
+    .p-profiles .profile-head .c-info .c-additionals, .c-brief header .notice {
+    text-shadow: 0 0 0 #00b9ff !important;
+    }
+
+    .p-profiles .profile-head .c-history .entry .title {
     animation: none !important;
   }
 }
