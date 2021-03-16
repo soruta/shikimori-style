@@ -150,3 +150,13 @@ img[src*="/characters/"][src*="/6207."] {
 img[src*="/characters/"][src*="/6203."] {
 	content: url(https://i.imgur.com/ZxVxP1e.jpg);
 }
+
+/* Tatsumaki */
+img[src*="/characters/"][src*="/81929."] {
+	content: url("https://i.imgur.com/5BkFsSi.jpg");
+}
+
+/* Fubuki */
+img[src*="/characters/"][src*="/81931."] {
+	content: url("https://i.imgur.com/13HAIw5.jpg");
+}
