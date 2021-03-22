@@ -1,4 +1,5 @@
 .activity .graph.vertical .line .bar {
+  animation-duration: none !important;
   animation-name: none !important;
 }
 
@@ -36,6 +37,10 @@
 }
 .b-catalog_entry-tooltip .inner .additional-images .link img:hover {
 	transform: none;
+}
+
+.bar.vertical .line .bar-container .value {
+    color: #ffffff !important;
 }
 
 .profile-actions .mail:hover::before, 
