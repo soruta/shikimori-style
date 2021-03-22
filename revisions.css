@@ -38,11 +38,28 @@
 	transform: none;
 }
 
+.profile-actions .mail:hover::before, 
+.profile-actions .talk:hover::before, 
+.profile-actions .fav-remove:hover::before, 
+.profile-actions .ban:hover::before, 
+.profile-actions .fav-add:hover::before, 
+.profile-actions .settings:hover::before, 
+.profile-actions .ignore-add:hover::before, 
+.profile-actions .ignore-remove:hover::before {
+	transform: none;
+}
+
 @media screen and (min-width: 1530px),
 @media screen and (min-width: 1830px) {
   	body#profiles_show .profile-head:before {
       	box-shadow: none;
   	}
+}
+
+@media screen and (max-width: 1290px) and (min-width: 1200px) {
+	body#profiles_show .profile-head:before {
+		box-shadow: none;
+	}
 }
 
 @media(min-width: 1200px) {
@@ -60,5 +77,11 @@
 
     .p-profiles .profile-head .c-history .entry .title {
     animation: none !important;
+  }
+}
+
+@media screen and (min-width: 925px) {
+  .about .b-catalog_entry, .about .b-catalog_entry:last-child {
+      width: calc(100% / 5) !important;
   }
 }
