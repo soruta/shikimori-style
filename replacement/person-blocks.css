@@ -1,0 +1,177 @@
+.Ssylki-Characters {
+  	margin: -1.6% -0.6%;
+  	padding: 0.1%;
+}
+
+div.Ssylki-Characters:hover {
+  	transform: rotate(360deg);
+}
+
+div.Ssylki-Characters strong:hover {
+  	filter: blur(4px);
+}
+
+.Ssylki-Characters .Text-1:after {
+  	content: '';
+    width: calc(100%);
+    height: calc(100%);
+    filter: none;
+}
+
+/* Persons */
+.Ssylki-Characters > strong > a[href*="/characters/7864-"]::before {
+    background: url(https://i.imgur.com/t44jHbl.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/422-"]::before {
+    background: url(https://i.imgur.com/0eQxYWC.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/417-"]::before {
+    background: url(https://i.imgur.com/0QMsyvm.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/z41402-"]::before {
+    background: url(https://i.imgur.com/jvKZ8DR.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/90393-"]::before {
+    background: url(https://i.imgur.com/o82vH90.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/6203-"]::before {
+    background: url(https://i.imgur.com/hRBS2oH.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/22036-"]::before {
+    background: url(https://i.imgur.com/jrzs1Xe.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/154019-"]::before {
+    background: url(https://i.imgur.com/I70ryhf.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/1111-"]::before {
+    background: url(https://i.imgur.com/Z5lhwT7.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/757-"]::before {
+    background: url(https://i.imgur.com/97TrZjX.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/35551-"]::before {
+    background: url(https://i.imgur.com/P8KVK3Y.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/10882-"]::before {
+    background: url(https://i.imgur.com/ZLBvB2o.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/11632-"]::before {
+    background: url(https://i.imgur.com/O31VDZy.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/153798-"]::before {
+    background: url(https://i.imgur.com/jPad0L8.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/643-"]::before {
+    background: url(https://i.imgur.com/BwBWJpV.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/83799-"]::before {
+    background: url(https://i.imgur.com/xS0bBz3.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/497-"]::before {
+    background: url(https://i.imgur.com/iePHkLw.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/35252-"]::before {
+    background: url(https://i.imgur.com/riglfJ2.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/2219-"]::before {
+    background: url(https://i.imgur.com/VpW1vIN.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/117225-"]::before {
+    background: url(https://i.imgur.com/c8Hu87J.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/498-"]::before {
+    background: url(https://i.imgur.com/gF0Jxei.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/642-"]::before {
+    background: url(https://i.imgur.com/FtWQPTI.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/162596-"]::before {
+    background: url(https://i.imgur.com/AIWrwuQ.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/39028-"]::before {
+    background: url(https://i.imgur.com/SbPTIt5.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/128130-"]::before {
+    background: url(https://i.imgur.com/UUfk36K.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/18979-"]::before {
+    background: url(https://i.imgur.com/VqWrsja.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/15801-"]::before {
+    background: url(https://i.imgur.com/EMBeBHh.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/38005-"]::before {
+    background: url(https://i.imgur.com/wn1Da50.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/154038-"]::before {
+    background: url(https://i.imgur.com/TAPJh0I.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/3762-"]::before {
+    background: url(https://i.imgur.com/yZrKNFg.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/81929-"]::before {
+    background: url(https://i.imgur.com/1OGdTlM.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/456-"]::before {
+    background: url(https://i.imgur.com/CJFoBy7.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/6207-"]::before {
+    background: url(https://i.imgur.com/Uw8yuKC.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/158202-"]::before {
+    background: url(https://i.imgur.com/Oc3I23V.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/145877-"]::before {
+    background: url(https://i.imgur.com/qljkYUP.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/34470-"]::before {
+    background: url(https://i.imgur.com/O33SqK0.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/z70069-"]::before {
+    background: url(https://i.imgur.com/acXP94q.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/94-"]::before {
+    background: url(https://i.imgur.com/HjxhrU8.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/117223-"]::before {
+    background: url(https://i.imgur.com/nabZeZC.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/118735-"]::before {
+    background: url(https://i.imgur.com/PZdM2ev.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/86-"]::before {
+    background: url(https://i.imgur.com/mMTjfkS.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/110355-"]::before {
+    background: url(https://i.imgur.com/aOgUu26.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/3763-"]::before {
+    background: url(https://i.imgur.com/8HJ6h6K.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/64847-"]::before {
+    background: url(https://i.imgur.com/j9HuHOn.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/44485-"]::before {
+    background: url(https://i.imgur.com/9HHTgHR.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/40450-"]::before {
+    background: url(https://i.imgur.com/kBsAWDh.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/88651-"]::before {
+    background: url(https://i.imgur.com/hdUHIb4.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/88649-"]::before {
+    background: url(https://i.imgur.com/vTKP3GB.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/81931-"]::before {
+    background: url(https://i.imgur.com/V6Jmk3I.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/3180-"]::before {
+    background: url(https://i.imgur.com/Ls3mMSP.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/57499-"]::before {
+    background: url(https://i.imgur.com/5vsSgxZ.jpg) 50%;
+}
+.Ssylki-Characters > strong > a[href*="/characters/31008-"]::before {
+    background: url(https://i.imgur.com/5LCdVvH.jpg) 50%;
+}
