@@ -160,3 +160,8 @@ img[src*="/characters/"][src*="/81929."] {
 img[src*="/characters/"][src*="/81931."] {
 	content: url("https://i.imgur.com/5BkFsSi.jpg");
 }
+
+/* Formidable */
+img[src*="/characters/"][src*="/191314."] {
+	content: url("https://i.imgur.com/Adxbeac.jpg");
+}
